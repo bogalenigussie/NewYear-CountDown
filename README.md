@@ -1,4 +1,3 @@
 # NewYear-CountDown!
 
-
-![newyearcountdown](https://user-images.githubusercontent.com/91279474/162783037-62db36b6-b406-4dbf-a0fc-5b5537c05402.gif)
+![newyearcountdown](https://user-images.githubusercontent.com/91279474/162783176-0adc995b-08fc-49c3-b818-b383a8071ab2.gif)
